@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.8">
+      <module name="Pet_project.app" target="11" />
+      <module name="Pet_project.data" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
