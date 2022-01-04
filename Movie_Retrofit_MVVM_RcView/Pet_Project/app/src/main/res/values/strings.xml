@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Network</string>
+    <string name="date">Des 01, 2021</string>
+    <string name="overview">Former Avenger Clint Barton has a seemingly simple mission: get back to his family for Christmas. Possible? Maybe with the help of Kate Bishop, a 22-year-old archer with dreams of becoming a superhero. The two are forced to work together when a presence from Barton’s past threatens to derail far more than the festive spirit.</string>
+    <string name="creator">Creator</string>
+    <string name="name_creator">Jonathan Igla</string>
+    <string name="first_overview">Overview</string>
+    <string name="series_cast">Series Cast</string>
+    <string name="name">Name</string>
+    <string name="overview_details">Overview:</string>
+    <string name="_8_1">8.1</string>
+    <string name="release_date">Release date:</string>
+</resources>

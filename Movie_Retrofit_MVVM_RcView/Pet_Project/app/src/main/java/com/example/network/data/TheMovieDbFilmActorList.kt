@@ -1,0 +1,10 @@
+package com.example.network.data
+
+import com.squareup.moshi.Json
+import com.squareup.moshi.JsonClass
+
+@JsonClass(generateAdapter = true)
+data class TheMovieDbFilmActorList(
+    @Json(name = "cast")
+    val cast: List<TheMoviesDBActor>?,
+)
